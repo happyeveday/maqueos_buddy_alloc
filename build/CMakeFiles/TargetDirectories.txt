@@ -1,0 +1,3 @@
+/home/bruce/project-a/git-project/homework/maqueos_buddy_alloc/build/CMakeFiles/kernel.dir
+/home/bruce/project-a/git-project/homework/maqueos_buddy_alloc/build/CMakeFiles/edit_cache.dir
+/home/bruce/project-a/git-project/homework/maqueos_buddy_alloc/build/CMakeFiles/rebuild_cache.dir
